@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=razayaseen&label=Profile%20views&color=0e75b6&style=flat" alt="razayaseen" /> </p>
 
-- 🌱 I’m currently learning **Web development**
+- 🌱 I’m currently learning **Web & Mobile development / Artificial intelligence (AI)**
 
 - 📫 How to reach me **yaseenraza261@gmail.com**
 
